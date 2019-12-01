@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(75deg, maroon, green);
+    background-repeat:repeat;   
+}
+h1{
+    color: orangered;
+    text-align: center;
+    border: 2px solid black;
+    background-image: linear-gradient(75deg, maroon, green);
+} 
+
+
+#confusing{
+    color: black;
+    border: 4px solid purple;
+    text-align:justify;
+    font-size: 20;
+    padding:20px;
+    background-image: linear-gradient(75deg, maroon, green);
+}  
+
+#confuse{
+color: black;
+border: 4px solid purple;
+text-align:justify;
+font-size: 20;
+padding:20px;
+background-image: linear-gradient(75deg, maroon, green);
+}
